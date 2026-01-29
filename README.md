@@ -6,4 +6,4 @@ This repository contains a single file `Resume.html` a simple HTML resume for Pa
 - Simple CSS (inline)
 
 ## Screenshot:
-![alt text](<Screenshot 2026-01-29 233820.png>)
+![Resume Screenshot](images/resume-preview.png)
